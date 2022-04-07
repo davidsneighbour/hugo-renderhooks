@@ -1,3 +1,3 @@
-module github.com/dnb-org/components/renderhooks
+module github.com/davidsneighbour/hugo-renderhooks
 
 go 1.17
